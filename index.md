@@ -37,3 +37,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ## hello world.
+
+### 2022.6.17晚
+
+今天老妈建议我没事时可以写写博客，我觉得确实该找点事情做了，所以这是第一篇博客文。  
+目前博客的页面还不规范，这些就留待我日后慢慢填补吧。  
+
+目前的打算是每天做一点点的进展，可以是每天完成一个小目标之类的。  
+
+今晚洗了个澡，心情还不错。
