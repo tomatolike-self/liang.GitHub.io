@@ -53,4 +53,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### 2022.6.30晚
 
 今天其实心情很差。昨天晚上和妈妈吵了一架，自尊心有点受伤；今天早上又看到一件充满迷信色彩的事，属实糟心情。
+
 不过还是妈妈，她再次叫我要行动起来，多做点事。所以我打算每天抽点时间学习一下，希望能坚持下去吧。
